@@ -1,2 +1,3 @@
-# bootcamp_dio_ifood
-Desafios do Bootcamp DIO Potência Tech powered by iFood | Ciência de Dados
+## Potência Tech powered by iFood | Ciência de Dados
+
+Repositório das soluções dos desafios do Bootcamp DIO Potência Tech.
